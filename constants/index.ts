@@ -1,0 +1,1 @@
+export { StackScreenWithSearchBar } from './layout';
